@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+   padding: 0;
+      
+}
+.border-check{
+    overflow-x:hidden ;
+    overflow-y: hidden;
+}
+.main{
+    position: sticky;
+top: 0;
+}
+.nav{
+    position: sticky;
+    top: 0;
+    font-size: 30px;
+    color: 1px solid white;
+    margin: 0 20px; 
+    padding: 1px 15px;
+    background: black;
+    border: 1px solid blanchedalmond;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bolder;
+    
+}
+
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    position: sticky;
+   top: 0;
+   cursor: pointer;
+  
+}
+
+.text{
+    margin-left: 7rem;
+    position: relative;
+    bottom: 30rem;
+    font-size: 25px;
+}
+.about{
+    margin-top: 3rem;
+    position: relative;
+    top: 0.5rem;
+    color: red;
+    margin-left: 0rem;
+}
+.image{
+   display: flex;
+   justify-content: space-evenly;
+   margin-left: 40rem;
+}
+.main-container{
+    
+    color: white;
+    background-color: black;
+    width: auto;
+
+}
+.main-11{
+    
+    width: auto;
+    height: 35rem;
+    background-color: black;
+    color: white;
+}
+
+.text-1{
+    margin-left: 3rem;
+   
+    margin-bottom: 3rem;
+    position: relative;
+    top: 2rem;
+    font-size: 30px;
+}
+.text-2{
+    margin-left: 15rem;
+    
+    position: relative;
+    bottom: 10rem;
+   margin-left: 47rem; 
+      font-size: 27px;
+}
+.main-section{
+    
+    position: relative;
+    height: 36rem;
+    background-color: black;
+    color: white;
+    
+}
+.text-3{
+   margin-left: 20rem; 
+    font-size: 27px;
+    
+  
+}
+.image-2{
+    margin-top: 5rem;
+    margin-left: 20rem; 
+    justify-content: space-between;
+
+    align-items: center;
+  
+}
+.img {
+    margin-top: 5rem;
+    margin-left: 10rem; 
+    margin-right: 10rem;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+
+.img-1{
+    margin-top: 5rem;
+    margin-left: 10rem;
+    margin-right: 10rem; 
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.hero{
+    height: 12rem;
+    width: auto;
+    padding: 20rem 35rem 15rem 35rem;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.see{
+    margin-top: 2rem;
+    margin-left: 5rem;
+    color:blueviolet;
+}
+.footer {
+    display: flex;
+    height: 46rem;
+font-size: 30px;
+    background-color: black;
+    
+}
+.text-5{
+   padding: 12rem 25rem 13rem 12rem;
+    color: white;
+    text-justify: auto;
+    font-size: 30px;
+}
+.image-5{
+    
+    position: relative;
+    margin-bottom: 1rem;
+    margin-left: 5rem;
+}
